@@ -13,4 +13,4 @@ setTimeout(() => {
     fbq('trackCustom', 'TelegramAutoRedirect');
   }
   window.location.href = 'https://telegram.dog/+cHR31sB21Zk5NzQ1';
-}, 3000);
+}, 10000);
